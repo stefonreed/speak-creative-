@@ -1,0 +1,79 @@
+/* =============== Typography =============== */
+
+h1 {
+	color:#BF3100;
+	font-family: 'russo one';
+}
+
+h2 {
+
+}
+
+h3 {
+	font-family: "Segoe UI",Arial,sans-serif;
+}
+
+h4 {
+	text-align: center ;
+}
+
+h5 {
+	
+}
+
+h6 {
+
+}
+
+p {
+	font-size:18px;
+}
+
+li{
+	font-size:18px;
+}
+
+
+/* =============== Navigation Styles =============== */
+
+nav {
+	
+}
+
+nav ul {
+	
+}
+
+nav ul li {
+	
+}
+
+nav ul li a {
+	
+}
+
+
+/* =============== Home Page Styles =============== */
+
+body{
+	background-color:#F4D7A8;
+}
+
+.about-header h2{
+	text-align: center;
+}
+
+.menu-logo img{
+	width:250px;
+	height:250px;
+}
+
+.logo-image img{
+	width:200px;
+	height:200px;
+}
+
+.menu-image img{
+	width:170px;
+	height:150px;
+}
